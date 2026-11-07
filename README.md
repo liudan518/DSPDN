@@ -1,4 +1,4 @@
-# DSPDN · Modern Multilingual Research Website
+# DSPDN 
 
 ## 公开访问 / Public access
 
