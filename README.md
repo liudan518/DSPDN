@@ -1,5 +1,15 @@
 # DSPDN · Modern Multilingual Research Website
 
+## 公开访问 / Public access
+
+- **科研主页 / Research website:** [https://liudan518.github.io/DSPDN/](https://liudan518.github.io/DSPDN/)
+- **论文 PDF / Paper PDF:** [https://liudan518.github.io/DSPDN/paper.pdf](https://liudan518.github.io/DSPDN/paper.pdf)
+
+网页与论文均可公开访问，无需登录。The website and paper are publicly accessible without signing in.
+
+网站通过 GitHub Pages 发布；更新 `main` 分支后会自动构建并部署。
+The site is published with GitHub Pages and redeploys automatically when `main` is updated.
+
 ## 中文使用说明
 
 本资源包由原始 `DSPDN.zip` 网页重构而成，保留原来的论文 PDF、所有原始科研图表和数据表格，不改变实验数值。
